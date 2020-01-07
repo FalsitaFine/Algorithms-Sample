@@ -1,0 +1,7 @@
+Paul : 2
+Alan : 5
+Adrienne : 8
+Agnessa : -1
+Lilian : 9001
+Yehonatan : 5
+Yehonatan : -5
